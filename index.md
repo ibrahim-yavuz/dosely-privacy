@@ -8,7 +8,7 @@ This Privacy Policy explains how Dosely accesses, collects, uses, stores, and sh
 
 If you have questions about this Privacy Policy, please contact us at:
 
-YOUR_EMAIL
+ibrahim.yavuz.0665@gmail.com
 
 ## 1. Information We Process
 
@@ -211,4 +211,4 @@ The updated version will be posted at the same Privacy Policy URL. The effective
 For privacy, support, or legal questions, contact:
 
 Proofsoft  
-YOUR_EMAIL
+ibrahim.yavuz.0665@gmail.com
